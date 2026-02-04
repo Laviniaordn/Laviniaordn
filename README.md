@@ -4,7 +4,7 @@
 
 Me chamo Lavinia Oliveira, tenho 21 anos e sou do Rio de Janeiro. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade UNISUAM. Sou apaixonada e entusiasta pela área de Análise de Dados, com grande interesse em transformar dados em informações estratégicas que apoiem a tomada de decisões.
 
-Trabalho na Orizon como jovem aprendiz no time de Workplace e Suporte Técnico. Sou responsável por auxiliar na manutenção e no funcionamento dos equipamentos corporativos, além de desenvolver automações para otimizar o trabalho do time, criar e manter planilhas de controle em Excel, entre outras atividades. 💙
+Trabalho na Orizon como jovem aprendiz no time de Workplace (Suporte Técnico). Sou responsável por auxiliar na manutenção e no funcionamento dos equipamentos corporativos, além de desenvolver automações para otimizar o trabalho do time, criar e manter planilhas de controle em Excel, entre outras atividades. 💙
 
 ### 🤖 Linguagens e Ferramentas
 
